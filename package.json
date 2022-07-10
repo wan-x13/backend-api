@@ -1,7 +1,9 @@
 {
 	
 	"name": "fcc-learn-npm-package-json",
-	"author": "David Wanga",
+	"author": { 
+		"name": "David Wanga",
+		 "email": "davidwangajean@gmail.com"},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
